@@ -24,4 +24,4 @@ const numeroString = "456";
 
 console.log(numero + Number (numeroString));
 
-//converter valor antes da string em Number com função Number N maiúscula 
+//converter valor antes da string em Number com função Number N maiúscula , se incluir algorismo vai dar
